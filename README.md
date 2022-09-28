@@ -8,9 +8,9 @@ This app was created as a school task in my exchange studies.
 - On Flight routes page you can find the top 10 busiest international routes in the world
 - On About page you can find brief information about the page
 
-<img src="flight-app-front.png" alt="Home page of the website" width="100%">
+<img src="public/flight-app-front.png" alt="Home page of the website" width="100%">
 
-<img src="flight-app-info.png" alt="Image of the airports page" width="100%">
+<img src="public/flight-app-info.png" alt="Image of the airports page" width="100%">
 
 ## Project setup
 ```
